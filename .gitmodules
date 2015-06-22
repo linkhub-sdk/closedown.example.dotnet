@@ -1,0 +1,6 @@
+[submodule "Closedown"]
+	path = Closedown
+	url = https://github.com/linkhub-sdk/closedown.dotnet.git
+[submodule "Linkhub"]
+	path = Linkhub
+	url = https://github.com/linkhub-sdk/linkhub.dotnet.git
